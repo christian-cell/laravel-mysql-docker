@@ -1,4 +1,4 @@
-First step install laravel inside your project 
+First of all install laravel inside your project 
 
 FROM curl
 
