@@ -32,6 +32,8 @@ MAIL_PORT=1025
 
 FINALLY
 
+create vhost.conf
+
 $ docker-compose up -d --build
 
 it can take some minutes
